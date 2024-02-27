@@ -1,0 +1,6 @@
+discord.py
+psutil
+matplotlib
+numpy
+speedtest-cli
+aiohttp
